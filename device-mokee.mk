@@ -13,7 +13,7 @@ PRODUCT_PACKAGES += \
     com.android.ims.rcsmanager
 
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/marlin/overlay-lineage
+DEVICE_PACKAGE_OVERLAYS += device/google/marlin/overlay-mk
 
 # SDCardFS
 PRODUCT_PROPERTY_OVERRIDES += \

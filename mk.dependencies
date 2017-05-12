@@ -1,5 +1,9 @@
 [
   {
+    "repository": "android_vendor_google_marlin",
+    "target_path": "vendor/google/marlin"
+  },
+  {
     "repository": "android_device_qcom_common",
     "target_path": "device/qcom/common"
   },
